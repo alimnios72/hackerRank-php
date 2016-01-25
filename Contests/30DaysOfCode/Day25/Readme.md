@@ -6,4 +6,14 @@ If this is too easy, create a method that decides if X is prime or not in O(√X
 
 To review Big-O Notation, remember...
 
-* Item Big-O "is used in Computer Science to describe the performance or complexity of an algorithm."
+* Big-O "is used in Computer Science to describe the performance or complexity of an algorithm."
+* Big-O "specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm."
+
+**Input Format**
+
+The first line of the input is **T**, total number of test cases. Each of the next line contains an integer **N**.
+
+**Constraints**
+
+* **1 <= T <= 20**
+* **1 <= N <= 2 x 109**
