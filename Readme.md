@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/alimnios72/hackerRank-solutions.svg?branch=master)](https://travis-ci.org/alimnios72/hackerRank-solutions)
+
 #Welcome
 
 This repository consists of some solutions to challenges proposed in popular site Hacker Rank. The repo is organized
