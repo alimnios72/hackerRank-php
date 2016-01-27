@@ -22,7 +22,7 @@ class Solution
         {
             return false;
         }
-        for($i = 5; $i < $num; $i++)
+        for($i = 5; $i <= ceil(sqrt($num)); $i = $i + 2)
         {
             if($num % $i === 0)
             {
