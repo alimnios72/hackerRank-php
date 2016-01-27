@@ -1,0 +1,7 @@
+{
+  "autoload" : {
+    "classmap" : [
+      "Contests/ThirtyDaysOfCode/Day25"
+    ]
+  }
+}
