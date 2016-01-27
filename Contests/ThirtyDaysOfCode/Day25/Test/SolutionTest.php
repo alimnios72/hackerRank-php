@@ -41,8 +41,7 @@ class SolutionTest extends \PHPUnit_Framework_TestCase
             [1],
             [30],
             [35],
-            [70],
-            [11]
+            [70]
         ];
     }
 
