@@ -10,6 +10,7 @@
 >
     <testsuites>
         <testsuite name="HackerRank Solutions">
+            <directory>./Contests/ThirtyDaysOfCode/Day20/Test/</directory>
             <directory>./Contests/ThirtyDaysOfCode/Day25/Test/</directory>
         </testsuite>
     </testsuites>
