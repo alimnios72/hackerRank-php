@@ -9,11 +9,14 @@
          syntaxCheck="false"
 >
     <testsuites>
-        <testsuite name="HackerRank Solutions">
+        <testsuite name="30DaysOfCcode">
             <directory>./Contests/ThirtyDaysOfCode/Day20/Test/</directory>
             <directory>./Contests/ThirtyDaysOfCode/Day25/Test/</directory>
             <directory>./Contests/ThirtyDaysOfCode/Day27/Test/</directory>
             <directory>./Contests/ThirtyDaysOfCode/Day29/Test/</directory>
+        </testsuite>
+        <testsuite name="HackDec2015">
+            <directory>./Contests/HackDec2015/StraightFlush/Test/</directory>
         </testsuite>
     </testsuites>
 </phpunit>
